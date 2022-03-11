@@ -1,0 +1,23 @@
+! Theme: Tempus Night
+! Description: High contrast dark theme with bright colours (WCAG AAA compliant)
+! Author: Protesilaos Stavrou (https://protesilaos.com)
+URxvt*background: #1a1a1a
+URxvt*foreground: #e0e0e0
+URxvt*cursorColor: #e0e0e0
+URxvt*cursorColor2: #1a1a1a
+URxvt*color0: #1a1a1a
+URxvt*color1: #ff929f
+URxvt*color2: #5fc940
+URxvt*color3: #c5b300
+URxvt*color4: #5fb8ff
+URxvt*color5: #ef91df
+URxvt*color6: #1dc5c3
+URxvt*color7: #c4bdaf
+URxvt*color8: #242536
+URxvt*color9: #f69d6a
+URxvt*color10: #88c400
+URxvt*color11: #d7ae00
+URxvt*color12: #8cb4f0
+URxvt*color13: #de99f0
+URxvt*color14: #00ca9a
+URxvt*color15: #e0e0e0

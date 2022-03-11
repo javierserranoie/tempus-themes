@@ -1,0 +1,28 @@
+name: "Tempus Totus"
+slug: "tempus-totus"
+slugunderscore: "tempus_totus"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "Light theme for prose or for coding in an open space (WCAG AAA compliant)"
+variant: "light" # light or dark
+col0: "#4a484d" # black variant
+col1: "#a50000" # red variant
+col2: "#005d26" # green variant
+col3: "#714700" # yellow variant
+col4: "#1d3ccf" # blue variant
+col5: "#88267a" # magenta variant
+col6: "#185570" # cyan variant
+col7: "#efefef" # white variant
+col8: "#5e4b4f" # bright black variant
+col9: "#992030" # bright red variant
+col10: "#4a5500" # bright green variant
+col11: "#8a3600" # bright yellow variant
+col12: "#2d45b0" # bright blue variant
+col13: "#700dc9" # bright magenta variant
+col14: "#005289" # bright cyan variant
+col15: "#ffffff" # bright white variant
+colbg: "#ffffff" # main background
+colbgalt: "#efefef" # alternative background
+colfg: "#4a484d" # main foreground
+colfgalt: "#5e4b4f" # alternative foreground
+colcr: "#4a484d" # cursor background
+colcr2: "#ffffff" # cursor foreground

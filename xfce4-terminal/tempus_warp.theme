@@ -1,0 +1,10 @@
+[Scheme]
+Name=Tempus Warp
+ColorForeground=#a29fa0
+ColorBackground=#001514
+ColorCursor=#a29fa0
+ColorBold=#a29fa0
+ColorPalette=#001514;#ff3737;#169c16;#9f8500;#5781ef;#da4ebf;#009880;#968282;#261c2c;#F0681A;#3aa73a;#ba8a00;#8887f0;#d85cf2;#1da1af;#a29fa0
+TabActivityColor=#169c16
+ColorSelectionBackground=#a29fa0
+ColorSelection=#001514
